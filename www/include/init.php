@@ -1,4 +1,4 @@
-<?
+<?php
 
 	#
 	# some startup tasks which come before anything else:
